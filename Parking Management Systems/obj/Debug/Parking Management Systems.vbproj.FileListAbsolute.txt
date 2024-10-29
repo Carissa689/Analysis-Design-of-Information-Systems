@@ -1,0 +1,21 @@
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\bin\Debug\Parking Management Systems.exe.config
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\bin\Debug\Parking Management Systems.exe
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\bin\Debug\Parking Management Systems.pdb
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\bin\Debug\Parking Management Systems.xml
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking Management Systems.vbproj.AssemblyReference.cache
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form1.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form2.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Resources.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking Management Systems.vbproj.GenerateResource.cache
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking Management Systems.vbproj.CoreCompileInputs.cache
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking Management Systems.exe
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking Management Systems.xml
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking Management Systems.pdb
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form3.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form4.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form5.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form6.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form7.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form8.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form10.resources
+C:\MATKUL SI\APSI\Parking Management Systems\Parking Management Systems\obj\Debug\Parking_Management_Systems.Form9.resources
